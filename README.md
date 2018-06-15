@@ -27,6 +27,7 @@ List of statusbar projects.
 - [Gods](https://github.com/schachmat/gods) - dwm status script written in Go
 - [Tint3](https://github.com/tmathmeyer/tint3) - An x11 status bar written in C with the goal of being light on memory and CPU usage
 - [Mowedline](https://github.com/retroj/mowedline) - An X status bar program
+- [Monky](https://github.com/monky-hs/monky) - Universal status bar content generator written and configurable in Haskell (i3bar, dzen)
 
 ## Contribute
 
