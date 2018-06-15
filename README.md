@@ -14,6 +14,7 @@ List of statusbar projects.
 - [Taffybar](https://github.com/taffybar/taffybar) - A gtk based status bar for tiling window managers such as XMonad
 - [Yabar](https://github.com/geommer/yabar) - A modern and lightweight status bar for X window managers
 - [i3blocks](https://github.com/vivien/i3blocks) - A flexible scheduler for your i3bar blocks
+- [Tianbar](https://github.com/koterpillar/tianbar) - A status bar for XMonad using WebKit for rendering
 - [Py3status](https://github.com/ultrabug/py3status) - py3status is an extensible i3status wrapper written in python
 - [i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
 - [Luastatus](https://github.com/shdown/luastatus) - universal status bar content generator
