@@ -29,6 +29,7 @@ List of statusbar projects.
 - [Mowedline](https://github.com/retroj/mowedline) - An X status bar program
 - [Monky](https://github.com/monky-hs/monky) - Universal status bar content generator written and configurable in Haskell (i3bar, dzen)
 - [Bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status) - A modular, theme-able status line generator for the i3 window manager
+- [blockbar](https://gitlab.com/sambazley/blockbar) - Blocks based status bar for X window managers
 
 ## Contribute
 
